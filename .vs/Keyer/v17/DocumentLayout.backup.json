@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\YandexDisk\\Code\\Keyer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BF255B-A96C-495C-AE97-5C4EDAB6A12D}|Keyer\\Keyer.csproj|c:\\yandexdisk\\code\\keyer\\keyer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BF255B-A96C-495C-AE97-5C4EDAB6A12D}|Keyer\\Keyer.csproj|solutionrelative:keyer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BF255B-A96C-495C-AE97-5C4EDAB6A12D}|Keyer\\Keyer.csproj|c:\\yandexdisk\\code\\keyer\\keyer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4BF255B-A96C-495C-AE97-5C4EDAB6A12D}|Keyer\\Keyer.csproj|solutionrelative:keyer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\YandexDisk\\Code\\Keyer\\Keyer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Keyer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\YandexDisk\\Code\\Keyer\\Keyer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Keyer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAewE4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:47:32.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\YandexDisk\\Code\\Keyer\\Keyer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Keyer\\MainWindow.xaml",
+              "ToolTip": "C:\\YandexDisk\\Code\\Keyer\\Keyer\\MainWindow.xaml",
+              "RelativeToolTip": "Keyer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T13:47:30.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
